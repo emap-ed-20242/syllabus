@@ -16,4 +16,6 @@ argumentos de correção.
 - https://lean-lang.org/functional_programming_in_lean/
 - https://github.com/lean-forward/logical_verification_2024
 - https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird/dp/1108491618
+- https://functional-algorithms-verified.org/
+
 
